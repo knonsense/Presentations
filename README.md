@@ -1,6 +1,2 @@
 # Presentations
-This repo will hold all the presentation work.  This holds the PDF slide show and the Video of presentation.
-
-[Slideshow] (https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf
-
-[Presentation] ()
+Welcome to our presentations repository. This repository will contain links and resources to our slide show presentation. Once our video presentation is available, it will be added to this repository as well.
