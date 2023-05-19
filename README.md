@@ -8,6 +8,14 @@
 
 ## [SlideShow](./TeamKnonSense.pdf)
 
-![Network](./assets/Network.png)
+<br>
 
-![Storage](./assets/Storage.png)
+### Network Topology
+
+![Network](./Topology/Network.png)
+
+<br>
+
+<!-- ### Server and Storage Solutions -->
+
+### ![Server and Storage Solutions](./Topology/Server.png)
