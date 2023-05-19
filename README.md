@@ -10,12 +10,12 @@
 
 <br>
 
-### Network Topology
+## Network Topology
 
 ![Network](./Topology/Network.png)
 
 <br>
 
-<!-- ### Server and Storage Solutions -->
+## Server and Storage Solutions
 
-### ![Server and Storage Solutions](./Topology/Server.png)
+![Server](./Topology/Server.png)
